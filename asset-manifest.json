@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/kuocco-dev/static/css/main.b100e6da.chunk.css",
-    "main.js": "/kuocco-dev/static/js/main.63ec3401.chunk.js",
-    "main.js.map": "/kuocco-dev/static/js/main.63ec3401.chunk.js.map",
-    "runtime-main.js": "/kuocco-dev/static/js/runtime-main.d2dcc850.js",
-    "runtime-main.js.map": "/kuocco-dev/static/js/runtime-main.d2dcc850.js.map",
-    "static/js/2.0d8a3085.chunk.js": "/kuocco-dev/static/js/2.0d8a3085.chunk.js",
-    "static/js/2.0d8a3085.chunk.js.map": "/kuocco-dev/static/js/2.0d8a3085.chunk.js.map",
-    "index.html": "/kuocco-dev/index.html",
-    "precache-manifest.24705dda6b136acdb23fe5e86a4429ad.js": "/kuocco-dev/precache-manifest.24705dda6b136acdb23fe5e86a4429ad.js",
-    "service-worker.js": "/kuocco-dev/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/kuocco-dev/static/css/main.b100e6da.chunk.css.map"
+    "main.css": "/kuokko/static/css/main.b100e6da.chunk.css",
+    "main.js": "/kuokko/static/js/main.36dbbc17.chunk.js",
+    "main.js.map": "/kuokko/static/js/main.36dbbc17.chunk.js.map",
+    "runtime-main.js": "/kuokko/static/js/runtime-main.8e9d80f6.js",
+    "runtime-main.js.map": "/kuokko/static/js/runtime-main.8e9d80f6.js.map",
+    "static/js/2.5d6a85cc.chunk.js": "/kuokko/static/js/2.5d6a85cc.chunk.js",
+    "static/js/2.5d6a85cc.chunk.js.map": "/kuokko/static/js/2.5d6a85cc.chunk.js.map",
+    "index.html": "/kuokko/index.html",
+    "precache-manifest.5aebbdf0f75c61e2fe02c7af460b39c9.js": "/kuokko/precache-manifest.5aebbdf0f75c61e2fe02c7af460b39c9.js",
+    "service-worker.js": "/kuokko/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/kuokko/static/css/main.b100e6da.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.d2dcc850.js",
-    "static/js/2.0d8a3085.chunk.js",
+    "static/js/runtime-main.8e9d80f6.js",
+    "static/js/2.5d6a85cc.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.63ec3401.chunk.js"
+    "static/js/main.36dbbc17.chunk.js"
   ]
 }
